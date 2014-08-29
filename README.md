@@ -23,7 +23,7 @@ Fluidbox is a modern and very lightweight lightbox plugin to give your images fr
 
 ## Donations
 
-* [![Donate via PayPal](http://cdn.flowdee.de/assets/button-paypal-small.gif "Donate via PayPal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RF3N2X3A6ZN96)
+[![Donate via PayPal](http://cdn.flowdee.de/assets/button-paypal-small.gif "Donate via PayPal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RF3N2X3A6ZN96)
 
 ## Changelog
 
