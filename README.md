@@ -1,6 +1,4 @@
 # FluidboxWP
-Fluidbox is a Wordpress plugin for simply and beautiful Fluidbox jQuery plugin written by [@terrymun](https://github.com/terrymun).
-[View demo](http://terrymun.github.io/Fluidbox/).
 
 ## Description
 
