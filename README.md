@@ -27,7 +27,7 @@ Fluidbox is a modern and very lightweight lightbox plugin to give your images fr
 
 ## Changelog
 
-#### 1.0
+#### v1.0
 * Initial release
 
 ## Licensing: GPLv2 or later
