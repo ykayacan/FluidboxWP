@@ -1,12 +1,12 @@
 === FluidboxWP ===
-Contributors: krialix  
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RF3N2X3A6ZN96  
-Tags: lightbox, fluidbox, images, gallery, colorbox, jquery 
-Requires at least: 3.5.1  
-Tested up to: 3.9.2  
-Stable tag: 1.0  
+Contributors: krialix
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RF3N2X3A6ZN96
+Tags: lightbox, fluidbox, images, gallery, colorbox, jquery
+Requires at least: 3.5.1
+Tested up to: 3.9.2
+Stable tag: 1.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
@@ -55,6 +55,9 @@ Fluidbox is a modern and very lightweight lightbox plugin to give your images fr
 4. Activate the plugin in the Plugin dashboard
 
 == Changelog ==
+
+= v1.2 =
+*	Updated plugin with latest changes.
 
 = v1.1 =
 *	Fix: Plugin doesn't recognize images automatically.

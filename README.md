@@ -27,6 +27,9 @@ Fluidbox is a modern and very lightweight lightbox plugin to give your images fr
 
 ## Changelog
 
+#### v1.2
+* Updated plugin with latest changes.
+
 #### v1.1
 * Fix: Plugin doesn't recognize images automatically.
 * New: Support for wordpress galleries.
@@ -37,6 +40,6 @@ Fluidbox is a modern and very lightweight lightbox plugin to give your images fr
 ## Licensing: GPLv2 or later
 This plugin is licensed under the GPLv2 License.
 
-## Credits  
+## Credits
 
 Thanks to terrymun for his beautiful [Fluidbox jQuery](http://terrymun.github.io/Fluidbox/) script
